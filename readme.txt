@@ -5,3 +5,4 @@ Git is  A free software
 Git has a mutable index called stage
 GIt tracks changes
 GIT two one thress
+GIT master master
